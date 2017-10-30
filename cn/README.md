@@ -1,3 +1,3 @@
-# orza.io
-Offical Website,
-forked Jekyll Now for easy gh-pages setup and added our content
+# orza.io (CN)
+Official CN Subdirectory,
+Translation @MaruiCN
