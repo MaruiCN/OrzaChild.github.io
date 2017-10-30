@@ -1,3 +1,3 @@
 # orza.io (CN)
-Offical CN Subdirectory,
+Official CN Subdirectory,
 Translation @MaruiCN
